@@ -1,0 +1,6 @@
+no cetacea
+no ray, skates
+no scorpionfish
+
+capelin swimming the same as swimming crab potentially
+Renamed capelin swimming to swimming_crab to match species group name. 
