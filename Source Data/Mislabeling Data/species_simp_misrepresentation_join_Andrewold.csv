@@ -1,0 +1,272 @@
+trade_match_name,species,sci_name,Mislabeling_name
+albacore_tuna,albacore,thunnus alalunga,Albacore
+atka mackerel,atka mackerel,pleurogrammus monopterygius,Mackerel_macro
+atka mackerel,okhotsk atka mackerel,pleurogrammus azonus,Mackerel_macro
+atlantic_salmon,atlantic salmon,salmo salar,Atlantic_salmon
+bigeye_tuna,bigeye tuna,thunnus obesus,Tuna_macro
+bluefin_tuna,atlantic bluefin tuna,thunnus thynnus,Tuna_macro
+bluefin_tuna,pacific bluefin tuna,thunnus orientalis,Tuna_macro
+bluefin_tuna,southern bluefin tuna,thunnus maccoyii,Tuna_macro
+catfish,"africa-bighead catfish, hybrid",clarias gariepinus x c. macrocephalus,
+catfish,amazon sailfin catfish,pterygoplichthys pardalis,
+catfish,amur catfish,silurus asotus,
+catfish,blue catfish,ictalurus furcatus,
+catfish,brown bullhead,ameiurus nebulosus,
+catfish,catfishes nei,ictalurus spp,
+catfish,channel catfish,ictalurus punctatus,
+catfish,chinese longsnout catfish,leiocassis longirostris,
+catfish,duckbill catfish,sorubim lima,
+catfish,eeltail catfishes,plotosus spp,
+catfish,flathead catfish,pylodictis olivaris,
+catfish,gilded catfish (brachyplatystoma),brachyplatystoma rousseauxii,
+catfish,gilded catfish (zungaro),zungaro zungaro,
+catfish,kumakuma,brachyplatystoma filamentosum,
+catfish,laulao catfish,brachyplatystoma vaillanti,
+catfish,loweye catfishes nei,hypophthalmus spp,
+catfish,north african catfish,clarias gariepinus,
+catfish,pangas catfishes nei,pangasius spp,
+catfish,philippine catfish,clarias batrachus,
+catfish,porthole shovelnose catfish,hemisorubim platyrhynchos,
+catfish,raphael catfish,platydoras costatus,
+catfish,redtail catfish,phractocephalus hemioliopterus,
+catfish,sea catfishes nei,ariidae,
+catfish,south american catfish,rhamdia quelen,
+catfish,stinging catfish,heteropneustes fossilis,
+catfish,striped catfish,pangasius hypophthalmus,Striped_catfish
+catfish,suckermouth catfish,hypostomus plecostomus,
+catfish,torpedo-shaped catfishes nei,clarias spp,
+catfish,yellow catfish,pelteobagrus fulvidraco,
+chinook_salmon,chinook(=spring=king) salmon,oncorhynchus tshawytscha,Salmon_macro
+chum_salmon,chum(=keta=dog) salmon,oncorhynchus keta,Pacific_salmon_macro
+cod_groundfish,atlantic cod,gadus morhua,Atlantic_cod
+cod_groundfish,greenland cod,gadus ogac,Cod_macro
+cod_groundfish,pacific cod,gadus macrocephalus,Pacific_cod
+coho_salmon,coho(=silver) salmon,oncorhynchus kisutch,Salmon_macro
+dolphin,common dolphinfish,coryphaena hippurus,Common_dolphinfish
+grouper,black grouper,mycteroperca bonaci,Grouper_macro
+grouper,brazilian groupers nei,mycteroperca spp,Grouper_macro
+grouper,broomtail grouper,mycteroperca xenarcha,Grouper_macro
+grouper,dungat grouper,epinephelus goreensis,Grouper_macro
+grouper,dusky grouper,epinephelus marginatus,Grouper_macro
+grouper,gag,mycteroperca microlepis,Grouper_macro
+grouper,greasy grouper,epinephelus tauvina,Grouper_macro
+grouper,groupers nei,epinephelus spp,Grouper_macro
+grouper,honeycomb grouper,epinephelus merra,Grouper_macro
+grouper,humpback grouper,cromileptes altivelis,Grouper_macro
+grouper,leopard coralgrouper,plectropomus leopardus,Grouper_macro
+grouper,nassau grouper,epinephelus striatus,Grouper_macro
+grouper,red grouper,epinephelus morio,Grouper_macro
+grouper,red hind,epinephelus guttatus,Grouper_macro
+grouper,rock hind,epinephelus adscensionis,Grouper_macro
+grouper,scamp,mycteroperca phenax,Grouper_macro
+grouper,snowy grouper,epinephelus niveatus,Grouper_macro
+grouper,speckled hind,epinephelus drummondhayi,Grouper_macro
+grouper,warsaw grouper,epinephelus nigritus,Grouper_macro
+grouper,white grouper,epinephelus aeneus,Grouper_macro
+grouper,yellowedge grouper,epinephelus flavolimbatus,Grouper_macro
+grouper,yellowfin grouper,mycteroperca venenosa,Grouper_macro
+haddock_groundfish,haddock,melanogrammus aeglefinus,Haddock
+hake_groundfish,argentine hake,merluccius hubbsi,Argentine_hake
+hake_groundfish,benguela hake,merluccius polli,Hake_macro
+hake_groundfish,blue grenadier,macruronus novaezelandiae,Hake_macro
+hake_groundfish,brazilian codling,urophycis brasiliensis,Hake_macro
+hake_groundfish,cape hakes,"merluccius capensis, m.paradoxus",Hake_macro
+hake_groundfish,deep-water cape hake,merluccius paradoxus,Deep_water_cape_hake
+hake_groundfish,european hake,merluccius merluccius,European_hake
+hake_groundfish,forkbeard,phycis phycis,Hake_macro
+hake_groundfish,forkbeards nei,phycis spp,Hake_macro
+hake_groundfish,greater forkbeard,phycis blennoides,Hake_macro
+hake_groundfish,hakes nei,merluccius spp,Hake_macro
+hake_groundfish,longfin hake,phycis chesteri,Hake_macro
+hake_groundfish,north pacific hake,merluccius productus,Hake_macro
+hake_groundfish,offshore silver hake,merluccius albidus,Hake_macro
+hake_groundfish,red hake,urophycis chuss,Hake_macro
+hake_groundfish,senegalese hake,merluccius senegalensis,Hake_macro
+hake_groundfish,shallow-water cape hake,merluccius capensis,Shallow_water_cape_hake
+hake_groundfish,silver hake,merluccius bilinearis,Hake_macro
+hake_groundfish,south pacific hake,merluccius gayi,Hake_macro
+hake_groundfish,southern hake,merluccius australis,Hake_macro
+hake_groundfish,white hake,urophycis tenuis,Hake_macro
+halibut_flatfish,atlantic halibut,hippoglossus hippoglossus,Halibut_macro
+halibut_flatfish,bastard halibut,paralichthys olivaceus,Halibut_macro
+halibut_flatfish,bastard halibuts nei,paralichthys spp,Halibut_macro
+halibut_flatfish,greenland halibut,reinhardtius hippoglossoides,Halibut_macro
+halibut_flatfish,pacific halibut,hippoglossus stenolepis,Halibut_macro
+horse mackerel_jack,atlantic horse mackerel,trachurus trachurus,Mackerel_macro
+horse mackerel_jack,blue jack mackerel,trachurus picturatus,Mackerel_macro
+horse mackerel_jack,cape horse mackerel,trachurus capensis,Mackerel_macro
+horse mackerel_jack,chilean jack mackerel,trachurus murphyi,Mackerel_macro
+horse mackerel_jack,cunene horse mackerel,trachurus trecae,Mackerel_macro
+horse mackerel_jack,greenback horse mackerel,trachurus declivis,Mackerel_macro
+horse mackerel_jack,jack and horse mackerels nei,trachurus spp,Mackerel_macro
+horse mackerel_jack,japanese jack mackerel,trachurus japonicus,Mackerel_macro
+horse mackerel_jack,mediterranean horse mackerel,trachurus mediterraneus,Mackerel_macro
+horse mackerel_jack,pacific jack mackerel,trachurus symmetricus,Mackerel_macro
+horse mackerel_jack,rough scad,trachurus lathami,Mackerel_macro
+mackerel,atlantic chub mackerel,scomber colias,Mackerel_macro
+mackerel,atlantic mackerel,scomber scombrus,Mackerel_macro
+mackerel,atlantic spanish mackerel,scomberomorus maculatus,Mackerel_macro
+mackerel,blue mackerel,scomber australasicus,Mackerel_macro
+mackerel,indian mackerel,rastrelliger kanagurta,Mackerel_macro
+mackerel,indian mackerels nei,rastrelliger spp,Mackerel_macro
+mackerel,indo-pacific king mackerel,scomberomorus guttatus,Mackerel_macro
+mackerel,japanese spanish mackerel,scomberomorus niphonius,Mackerel_macro
+mackerel,king mackerel,scomberomorus cavalla,Mackerel_macro
+mackerel,mackerels nei,scombridae,Mackerel_macro
+mackerel,narrow-barred spanish mackerel,scomberomorus commerson,Mackerel_macro
+mackerel,pacific chub mackerel,scomber japonicus,Mackerel_macro
+mackerel,pacific sierra,scomberomorus sierra,Mackerel_macro
+mackerel,scomber mackerels nei,scomber spp,Mackerel_macro
+mackerel,seerfishes nei,scomberomorus spp,Mackerel_macro
+mackerel,serra spanish mackerel,scomberomorus brasiliensis,Mackerel_macro
+mackerel,short mackerel,rastrelliger brachysoma,Mackerel_macro
+mackerel,streaked seerfish,scomberomorus lineolatus,Mackerel_macro
+mackerel,west african spanish mackerel,scomberomorus tritor,Mackerel_macro
+other_salmon,masu(=cherry) salmon,oncorhynchus masou,Pacific_salmon_macro
+other_salmon,pacific salmons nei,oncorhynchus spp,Pacific_salmon_macro
+other_salmon,salmonids nei,salmonidae,Salmon_macro
+other_salmon,salmonoids nei,salmonoidei,Salmon_macro
+other_tuna,blackfin tuna,thunnus atlanticus,Tuna_macro
+other_tuna,bullet tuna,auxis rochei,Tuna_macro
+other_tuna,dogtooth tuna,gymnosarda unicolor,Tuna_macro
+other_tuna,frigate and bullet tunas,"auxis thazard, a. rochei",Tuna_macro
+other_tuna,frigate tuna,auxis thazard,Tuna_macro
+other_tuna,kawakawa,euthynnus affinis,Tuna_macro
+other_tuna,little tunny(=atl.black skipj),euthynnus alletteratus,Tuna_macro
+other_tuna,longtail tuna,thunnus tonggol,Tuna_macro
+pink_salmon,pink(=humpback) salmon,oncorhynchus gorbuscha,Pacific_salmon_macro
+plaice_flatfish,alaska plaice,pleuronectes quadrituberculat.,
+plaice_flatfish,amer. plaice(=long rough dab),hippoglossoides platessoides,
+plaice_flatfish,european plaice,pleuronectes platessa,European_plaice
+pollock_groundfish,alaska pollock(=walleye poll.),theragra chalcogramma,Alaska_pollock
+pollock_groundfish,pollack,pollachius pollachius,
+pollock_groundfish,saithe(=pollock),pollachius virens,
+sea bass,[paralabrax spp],paralabrax spp,
+sea bass,argentine seabass,acanthistius brasilianus,
+sea bass,black seabass,centropristis striata,
+sea bass,european seabass,dicentrarchus labrax,
+sea bass,giant seabass,stereolepis gigas,
+sea bass,"groupers, seabasses nei",serranidae,Grouper*
+sea bass,japanese seabass,lateolabrax japonicus,
+sea bass,peruvian rock seabass,paralabrax humeralis,
+sea bass,rock seabass,centropristis philadelphica,
+sea bass,seabasses nei,dicentrarchus spp,
+sea bass,spotted seabass,dicentrarchus punctatus,
+shark,angelshark,squatina squatina,
+shark,argentine angelshark,squatina argentina,
+shark,arrowhead dogfish,deania profundorum,
+shark,atlantic sharpnose shark,rhizoprionodon terraenovae,
+shark,basking shark,cetorhinus maximus,
+shark,bigeye thresher,alopias superciliosus,
+shark,birdbeak dogfish,deania calcea,
+shark,black dogfish,centroscyllium fabricii,
+shark,blackmouth catshark,galeus melastomus,
+shark,blacknose shark,carcharhinus acronotus,
+shark,blacktip shark,carcharhinus limbatus,
+shark,blue shark,prionace glauca,Blue_shark
+shark,bluntnose sixgill shark,hexanchus griseus,
+shark,bonnethead,sphyrna tiburo,
+shark,broadnose sevengill shark,notorynchus cepedianus,
+shark,brown smooth-hound,mustelus henlei,
+shark,bull shark,carcharhinus leucas,
+shark,"catsharks, etc. nei",scyliorhinidae,
+shark,"catsharks, nursehounds nei",scyliorhinus spp,
+shark,copper shark,carcharhinus brachyurus,
+shark,dogfish sharks nei,squalidae,
+shark,draughtsboard shark,cephaloscyllium isabellum,
+shark,dusky shark,carcharhinus obscurus,
+shark,dusky smooth-hound,mustelus canis,
+shark,finetooth shark,carcharhinus isodon,
+shark,great hammerhead,sphyrna mokarran,
+shark,great white shark,carcharodon carcharias,
+shark,greenland shark,somniosus microcephalus,
+shark,gulper shark,centrophorus granulosus,
+shark,"hammerhead sharks, etc. nei",sphyrnidae,
+shark,kitefin shark,dalatias licha,
+shark,knifetooth dogfish,scymnodon ringens,
+shark,lanternsharks nei,etmopterus spp,
+shark,leafscale gulper shark,centrophorus squamosus,
+shark,lemon shark,negaprion brevirostris,
+shark,leopard shark,triakis semifasciata,
+shark,little sleeper shark,somniosus rostratus,
+shark,longfin mako,isurus paucus,
+shark,longnose spurdog,squalus blainville,
+shark,longnose velvet dogfish,centroscymnus crepidater,
+shark,mako sharks,isurus spp,
+shark,mouse catshark,galeus murinus,
+shark,nurse shark,ginglymostoma cirratum,
+shark,nursehound,scyliorhinus stellaris,
+shark,oceanic whitetip shark,carcharhinus longimanus,
+shark,pacific angelshark,squatina californica,
+shark,pelagic thresher,alopias pelagicus,
+shark,picked dogfish,squalus acanthias,
+shark,plunket shark,centroscymnus plunketi,
+shark,porbeagle,lamna nasus,
+shark,portuguese dogfish,centroscymnus coelolepis,
+shark,requiem sharks nei,carcharhinidae,
+shark,roughskin dogfish,centroscymnus owstoni,
+shark,sailfin roughshark,oxynotus paradoxus,
+shark,sand tiger shark,carcharias taurus,
+shark,sandbar shark,carcharhinus plumbeus,
+shark,scalloped hammerhead,sphyrna lewini,
+shark,"sharks, rays, skates, etc. nei",elasmobranchii,
+shark,shortfin mako,isurus oxyrinchus,
+shark,silky shark,carcharhinus falciformis,
+shark,slender smooth-hound,gollum attenuatus,
+shark,small-spotted catshark,scyliorhinus canicula,
+shark,smooth hammerhead,sphyrna zygaena,
+shark,smooth-hound,mustelus mustelus,
+shark,smooth-hounds nei,mustelus spp,
+shark,spinner shark,carcharhinus brevipinna,
+shark,spotted estuary smooth-hound,mustelus lenticulatus,
+shark,thresher,alopias vulpinus,
+shark,thresher sharks nei,alopias spp,
+shark,tiger shark,galeocerdo cuvier,
+shark,tope shark,galeorhinus galeus,
+shark,various sharks nei,selachimorpha (pleurotremata),
+shark,velvet belly,etmopterus spinax,
+skipjack_tuna,black skipjack,euthynnus lineatus,Tuna_macro
+skipjack_tuna,skipjack tuna,katsuwonus pelamis,Tuna_macro
+snapper,cubera snapper,lutjanus cyanopterus,Snapper_macro
+snapper,grey snapper,lutjanus griseus,Snapper_macro
+snapper,lane snapper,lutjanus synagris,Snapper_macro
+snapper,mutton snapper,lutjanus analis,Snapper_macro
+snapper,northern red snapper,lutjanus campechanus,Northern_red_snapper
+snapper,pacific red snapper,lutjanus peru,Snapper_macro
+snapper,silk snapper,lutjanus vivanus,Snapper_macro
+snapper,snappers nei,lutjanus spp,Snapper_macro
+snapper,"snappers, jobfishes nei",lutjanidae,Snapper_macro
+snapper,southern red snapper,lutjanus purpureus,Snapper_macro
+snapper,spotted rose snapper,lutjanus guttatus,Snapper_macro
+snapper,yellow snapper,lutjanus argentiventris,Snapper_macro
+sockeye_salmon,sockeye(=red) salmon,oncorhynchus nerka,Salmon_macro
+sole_flatfish,[solea spp],solea spp,
+sole_flatfish,butter sole,isopsetta isolepis,
+sole_flatfish,common sole,solea solea,Common_sole
+sole_flatfish,curlfin sole,pleuronichthys decurrens,
+sole_flatfish,dover sole,microstomus pacificus,
+sole_flatfish,english sole,pleuronectes vetulus,
+sole_flatfish,flathead sole,hippoglossoides elassodon,
+sole_flatfish,lemon sole,microstomus kitt,
+sole_flatfish,pacific sand sole,psettichthys melanostictus,
+sole_flatfish,petrale sole,eopsetta jordani,
+sole_flatfish,rex sole,glyptocephalus zachirus,
+sole_flatfish,rock sole,lepidopsetta bilineata,
+sole_flatfish,sand sole,solea lascaris,
+sole_flatfish,senegalese sole,solea senegalensis,
+sole_flatfish,soles nei,soleidae,
+sole_flatfish,southeast atlantic soles nei,austroglossus spp,
+sole_flatfish,thickback soles nei,microchirus spp,
+sole_flatfish,wedge sole,dicologlossa cuneata,
+sole_flatfish,west coast sole,austroglossus microlepis,
+sole_flatfish,yellowfin sole,limanda aspera,
+swordfish,swordfish,xiphias gladius,Swordfish
+trout,arctic char,salvelinus alpinus,
+trout,brook trout,salvelinus fontinalis,
+trout,chars nei,salvelinus spp,
+trout,golden trout,oncorhynchus aguabonita,
+trout,lake trout(=char),salvelinus namaycush,
+trout,rainbow trout,oncorhynchus mykiss,Rainbow_trout
+trout,sea trout,salmo trutta,
+trout,trouts nei,salmo spp,
+yellowfin_tuna,yellowfin tuna,thunnus albacares,Yellowfin_tuna
